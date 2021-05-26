@@ -10,7 +10,7 @@ Please make the following preparations before using:
    You can get the latest release version of Python3 at https://www.python.org
 
 2. Install the required packages for python from the command line
-   pip3 install sklearn,openpyxl
+   pip3 install sklearn
 
 3.Prepare your input file in the format of example_input.fasta at the folder "MOP"
 
