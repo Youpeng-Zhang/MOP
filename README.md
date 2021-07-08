@@ -12,7 +12,7 @@ Please make the following preparations before using:
 
 2. Install the required packages for python from the command line
 
-   pip3 install sklearn,openpyxl
+   pip3 install scikit-learn==0.22 openpyxl
 
 3.Prepare your input file in the format of example_input.fasta at the folder "MOP"
 
